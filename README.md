@@ -18,7 +18,7 @@ Keeping up with fashion and fashion trends can be a really daunting task sometim
 2. **Sample**: Image of a particular clothe to be analysed and categorised into the wardrobe.
     - Can be received from cloud storage, camera or any storage media.
 
-3. **Wardroble**: A virtual enviroment for the classification of clothes. Each sample placed in the wardrobe would be done according to its properties.
+3. **Wardrobe**: A virtual enviroment for the classification of clothes. Each sample placed in the wardrobe would be done according to its properties.
     - It is the storage area for clothes.
     - Can be made available accross devices through cloud storage.
 
@@ -50,5 +50,5 @@ For detailed documentation on the android implementation click [here](/Android.m
 This project is licensed under the Apache License Version 2.0, January 2004. Read the [license](/LICENSE) statement for more information.
 
 ## Contact
-- Support: orsteg.apps@gmail.com
-- Developer: goodhopeordu@yahoo.com
+- Support: [orsteg.apps@gmail.com](mailto:orsteg.apps@gmail.com)
+- Developer: [goodhopeordu@yahoo.com](mailto:goodhopeordu@yahoo.com)
