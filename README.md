@@ -39,5 +39,12 @@ Keeping up with fashion and fashion trends can be a really daunting task sometim
     1. Organiser: This is responsible for analysing the given sample and arranging/categorising it into the wardrobe.
     2. Stylist: This is responsible for receiving user queries and producing the result base on fashion trends, user preferences and available clothes in the wardrobe.
 
+-------------------------------------------------------------------------------------------------
+## Targets
+This project would be targetting both mobile and web platforms.
+
+### Andrid Platform
+For detailed documentation on the android implementation click [here](/Android.md)
+
 ## License
 This project is licensed under the Apache license. View the [license](/LICENSE) file for details.
