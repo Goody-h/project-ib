@@ -43,7 +43,7 @@ Keeping up with fashion and fashion trends can be a really daunting task sometim
 ## Targets
 This project would be targetting both mobile and web platforms.
 
-### Andrid Platform
+### Android Platform
 For detailed documentation on the android implementation click [here](/Android.md).
 
 ## License
